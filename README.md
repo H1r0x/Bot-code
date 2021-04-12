@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/CoolRPG/CoolRPG/default/CoolRPGlogo.png)
+![Image](https://raw.githubusercontent.com/CoolRPG/CoolRPG-Web/default/CoolRPGlogo.png)
 
 CoolRPG is a discord bot which allows you to run economy commands. Join our [Support Server](https://dsc.gg/coolrpg) .
 Become the richest guy.
